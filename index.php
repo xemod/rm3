@@ -4,8 +4,9 @@
 <title>โครงการพัฒนาผู้จัดการงานวิจัย รุ่นที่ ๓(Research Manager : RM)</title>
 
 <link href="css/style.css" rel="stylesheet" type="text/css">
-
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!--[if lt IE 9]>
+    			Require all granted
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
@@ -23,7 +24,7 @@
 <!-- start html block -->
 <header>
 <hgroup id="hideh1"><h1 class="site-title"><a href="/rm3">อบรม RM รุ่นที่ ๓</a></h1></hgroup>
-<a href="#"><img src="https://www.hsri.or.th/sites/default/files/logo.png" onclick= "window.location.href = '/'" / id="headimg"></a>
+<a href="#"><img src="https://lh5.googleusercontent.com/LTcDFvOubVj0103mAd2WNWybc2nATqvZ0EotCzkqS276T0DTuMMn0YZRYaOtAyuB2nFaKHnv2FHrtyqndaTpn1S99ZpBFX4ggmQKc1tuXu44rvKWt-Gw_tAkaLTccF4A1n1ds5dyFXmXHw" onclick= "window.location.href = '/'" / id="headimg"></a>
 </header>
 
 <nav>
