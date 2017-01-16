@@ -48,7 +48,7 @@
 
 <!-- adding post content -->
 <div class="entry post-content">
-<img src="https://www.hsri.or.th/sites/default/files/styles/front_slide__620x350_/public/Untitled.jpg" alt="" width="620" height="350" /><br >
+<img src="Untitled.jpg" alt="" width="620" height="350" /><br >
 <p><u>การสมัครเข้ารับการฝึกอบรม</u></p>
 
 <p>ผู้ที่สนใจและได้รับอนุมัติจากหน่วยงานต้นสังกัดให้สมัครเข้ารับการฝึกอบรมได้ที่ <a href="http://www.hsri.or.th/rm3"><u>www.hsri.or.th</u><u>/</u><u>rm3</u></a> <u><strong>หมดเขตสมัคร</strong></u><u><strong>ภายใน</strong></u><u><strong>วันที่ 10</strong></u> <u><strong>กุมภาพันธ์ 2560</strong></u> และประกาศรายชื่อผู้มีสิทธิเข้ารับการอบรมในวันที่ 13 กุมภาพันธ์ 2560 ทางเว็บไซต์ <a href="http://www.hsri.or.th/rm3"><u>www.hsri.or.th</u><u>/</u><u>rm3</u></a></p>
